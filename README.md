@@ -14,7 +14,6 @@ A 3D endless runner game built in Unity. Run down a neon-lit city track, dodge o
 - Move: [e.g. Left/Right arrows or A/D]
 - Pause and Restart: buttons at top left
 
-
 ## Built With
 - Unity
 - C#
