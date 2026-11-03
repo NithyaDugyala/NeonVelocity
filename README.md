@@ -14,12 +14,9 @@ A 3D endless runner game built in Unity. Run down a neon-lit city track, dodge o
 - Move: [e.g. Left/Right arrows or A/D]
 - Pause and Restart: buttons at top left
 
-## Screenshots
-![Gameplay](gameplay_crop.png)
-![Game Over](gameover_crop.png)
 
 ## Built With
-- Unity [your version]
+- Unity
 - C#
 
 ## How to Run
@@ -28,4 +25,4 @@ A 3D endless runner game built in Unity. Run down a neon-lit city track, dodge o
 3. Open the main scene in `Assets/Scenes` and press Play.
 
 ## Developer
-D. Nithya | HT No: 2303A52457 | Batch: B-35
+D. Nithya 
